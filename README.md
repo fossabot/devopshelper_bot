@@ -9,6 +9,7 @@ Was published from private repo on version `v2.1.0`
 ## Badges
 
 [![Known Vulnerabilities](https://snyk.io/test/github/Asgoret/devopshelper_bot/badge.svg)](https://snyk.io/test/github/Asgoret/devopshelper_bot) [![CodeFactor](https://www.codefactor.io/repository/github/asgoret/devopshelper_bot/badge)](https://www.codefactor.io/repository/github/asgoret/devopshelper_bot)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAsgoret%2Fdevopshelper_bot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAsgoret%2Fdevopshelper_bot?ref=badge_shield)
 
 ## Realese policy
 
@@ -77,3 +78,7 @@ __User commands:__
 | Monitoring         | []     |
 | ML                 | []     |
 | Webhooks           | []     |
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAsgoret%2Fdevopshelper_bot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAsgoret%2Fdevopshelper_bot?ref=badge_large)
